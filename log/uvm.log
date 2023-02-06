@@ -1,0 +1,170 @@
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 0: uvm_test_top.env.subscriber [Subscriber] 
+rst=x, scan_in=x, scan_out=z
+[Port1]
+	[Inputs] tag_in=x, cmd=xxxx, d1= x, d2= x, r1= x, data_in=         x
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port2]
+	[Inputs] tag_in=x, cmd=xxxx, d1= x, d2= x, r1= x, data_in=         x
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port3]
+	[Inputs] tag_in=x, cmd=xxxx, d1= x, d2= x, r1= x, data_in=         x
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port4]
+	[Inputs] tag_in=x, cmd=xxxx, d1= x, d2= x, r1= x, data_in=         x
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 1: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=xx, tag_out=x, data_out=         x
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 3: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 5: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 7: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 9: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 11: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 13: uvm_test_top.env.subscriber [Subscriber] 
+rst=1, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=0, cmd=0000, d1= 0, d2= 0, r1= 0, data_in=         0
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 15: uvm_test_top.env.subscriber [Subscriber] 
+rst=0, scan_in=1, scan_out=z
+[Port1]
+	[Inputs] tag_in=2, cmd=1000, d1= 0, d2=11, r1= 3, data_in=2769827470
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=1, cmd=0001, d1= 0, d2=13, r1= 8, data_in=4272673777
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=2, cmd=1000, d1= 0, d2=15, r1= 7, data_in= 252964510
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=3, cmd=1001, d1= 1, d2=11, r1= 4, data_in=1956880483
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 17: uvm_test_top.env.subscriber [Subscriber] 
+rst=0, scan_in=1, scan_out=z
+[Port1]
+	[Inputs] tag_in=2, cmd=0011, d1= 5, d2= 7, r1=10, data_in=2591902616
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port2]
+	[Inputs] tag_in=3, cmd=1000, d1= 2, d2= 6, r1=12, data_in=1153057453
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=3, cmd=0000, d1=13, d2= 1, r1=12, data_in= 979450878
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port4]
+	[Inputs] tag_in=1, cmd=0010, d1= 3, d2= 4, r1= 2, data_in=4070530891
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/subscriber.svh(48) @ 19: uvm_test_top.env.subscriber [Subscriber] 
+rst=0, scan_in=0, scan_out=z
+[Port1]
+	[Inputs] tag_in=0, cmd=0110, d1=12, d2= 0, r1= 6, data_in=3538580700
+	[Outputs] resp=10, tag_out=2, data_out=         0
+[Port2]
+	[Inputs] tag_in=2, cmd=0100, d1=12, d2= 4, r1=13, data_in=3091008927
+	[Outputs] resp=00, tag_out=0, data_out=         0
+[Port3]
+	[Inputs] tag_in=1, cmd=1111, d1= 8, d2= 2, r1= 7, data_in= 897471617
+	[Outputs] resp=10, tag_out=2, data_out=         0
+[Port4]
+	[Inputs] tag_in=1, cmd=0101, d1= 8, d2= 6, r1=12, data_in=1816658978
+	[Outputs] resp=00, tag_out=0, data_out=         0
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/scoreboard.svh(70) @ 19: uvm_test_top.env.scoreboard [Scoreboard] Failed
+
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/scoreboard.svh(71) @ 19: uvm_test_top.env.scoreboard [Scoreboard] There is no coresponding legal request for following response:
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/scoreboard.svh(72) @ 19: uvm_test_top.env.scoreboard [Scoreboard] Port           0	Tag           2
+UVM_INFO C:/Users/ahmad/workspaceSigasi/Calc3/includes/uvm/scoreboard.svh(73) @ 19: uvm_test_top.env.scoreboard [Scoreboard] [Outputs] resp=10, tag_out=2, data_out=         0
